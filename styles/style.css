@@ -79,8 +79,8 @@ body ::selection {
   width: 2rem;
   height: 2rem;
 
-  /* convert to white, see https://codepen.io/sosuke/pen/Pjoqqp */
-  filter: invert(97%) sepia(8%) saturate(411%) hue-rotate(226deg) brightness(115%) contrast(100%);
+  /* convert to white */
+  filter: invert(1);
 }
 
 @media (min-width: 640px) {
