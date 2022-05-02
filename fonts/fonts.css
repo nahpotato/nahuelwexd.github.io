@@ -1,0 +1,15 @@
+/* ubuntu-mono-bold */
+@font-face {
+	font-family: Ubuntu Mono;
+	font-style: normal;
+	font-weight: 700;
+	src: local("Ubuntu Mono Bold"), local("UbuntuMono-Bold"), url(ubuntu-mono-bold.woff2) format("woff2");
+}
+
+/* ubuntu-mono */
+@font-face {
+	font-family: Ubuntu Mono;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Ubuntu Mono"), local("UbuntuMono-Regular"), url(ubuntu-mono.woff2) format("woff2");
+}
